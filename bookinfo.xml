@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE bookinfo SYSTEM "bookinfo.dtd">
+<bookinfo>
+    <title>PHP and MySQL Web Development</title>
+    <author>Luke Welling</author>
+    <isbn>0-672-32672-8</isbn>
+    <publisher>Sams Publishing</publisher>
+    <pubdate>2003</pubdate>
+    <edition>Second</edition>
+    <price currency="USD">39.99</price>
+</bookinfo>
